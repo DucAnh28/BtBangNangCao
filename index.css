@@ -1,0 +1,55 @@
+.White{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+.Black{
+    background-color: black;
+    color: black;
+    width: 100px;
+    height: 100px
+}
+.bang1{
+    border-collapse: collapse;
+    background-color: orange;
+}
+.Chu{
+    width: 40px;
+    margin-right: auto;
+    text-align: right;
+}
+.tren{
+    text-align: center;
+}
+#border{
+    border: 20px;
+}
+#chunhat{
+    color: red;
+}
+.hang1{
+    color: white;
+}
+.N{
+    background-color: orange;
+}
+.ngaythuong{
+    /*background-color: orange;*/
+}
+.bangduoi{
+    border-collapse: collapse;
+    border: 2px;
+    border-color: black;
+}
+#CNhang1{
+    background-color: red;
+}
+.sat{
+    background-color: #080fb8;
+}
+.thubay{
+    color: #080fb8;
+}
+.bang2{
+    width: 200px;
+}
